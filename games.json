@@ -1,0 +1,4997 @@
+[
+  {
+    "id": "finger-heart-monster-refill",
+    "thumbnail": "https://html5arcadex.github.io/images/300.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "capybara-xmas-merge",
+    "thumbnail": "https://html5arcadex.github.io/images/301.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fun-mini-games-for-princess",
+    "thumbnail": "https://html5arcadex.github.io/images/302.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "lion-family-sim-online",
+    "thumbnail": "https://html5arcadex.github.io/images/303.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "car-crash-test-abandoned-city",
+    "thumbnail": "https://html5arcadex.github.io/images/304.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "burger-empire",
+    "thumbnail": "https://html5arcadex.github.io/images/305.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "brainrot-mob-clash-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/306.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "survival-on-raft-multiplayer",
+    "thumbnail": "https://html5arcadex.github.io/images/307.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "snake-puzzle-slither-to-eat",
+    "thumbnail": "https://html5arcadex.github.io/images/308.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fish-master-go-fish",
+    "thumbnail": "https://html5arcadex.github.io/images/309.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "magic-sort",
+    "thumbnail": "https://html5arcadex.github.io/images/310.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "island-puzzle-build-solve",
+    "thumbnail": "https://html5arcadex.github.io/images/311.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "challenge-your-friends",
+    "thumbnail": "https://html5arcadex.github.io/images/312.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "magic-christmas-tree-match-3",
+    "thumbnail": "https://html5arcadex.github.io/images/313.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "dinosaur-shifting-run",
+    "thumbnail": "https://html5arcadex.github.io/images/314.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "steal-brainrot-duel",
+    "thumbnail": "https://html5arcadex.github.io/images/315.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "neon-gravity",
+    "thumbnail": "https://html5arcadex.github.io/images/316.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "butterfly-sort-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/317.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "student-and-teacher",
+    "thumbnail": "https://html5arcadex.github.io/images/318.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "dalgona-game2",
+    "thumbnail": "https://html5arcadex.github.io/images/319.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "flower-block",
+    "thumbnail": "https://html5arcadex.github.io/images/320.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "juicy-match-2",
+    "thumbnail": "https://html5arcadex.github.io/images/321.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "yoga-master",
+    "thumbnail": "https://html5arcadex.github.io/images/322.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "wave-road-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/323.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "spaceio",
+    "thumbnail": "https://html5arcadex.github.io/images/324.webp",
+    "genre": "Shooter, .IO"
+  },
+  {
+    "id": "prism-match-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/325.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "hidden-objects-lost-island-2",
+    "thumbnail": "https://html5arcadex.github.io/images/326.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "save-little-red-hood",
+    "thumbnail": "https://html5arcadex.github.io/images/327.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "drunken-fighters",
+    "thumbnail": "https://html5arcadex.github.io/images/328.webp",
+    "genre": "Sports, Agility"
+  },
+  {
+    "id": "car-jam-traffic-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/329.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pixel-journey",
+    "thumbnail": "https://html5arcadex.github.io/images/330.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "2248-blast",
+    "thumbnail": "https://html5arcadex.github.io/images/331.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "obby-escape-barrys-jail-parkour",
+    "thumbnail": "https://html5arcadex.github.io/images/332.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "heroic-knight",
+    "thumbnail": "https://html5arcadex.github.io/images/333.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "italian-brainrot-drag-merge-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/334.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "spider-bubu",
+    "thumbnail": "https://html5arcadex.github.io/images/335.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "fashion-stylist-salon-makeover",
+    "thumbnail": "https://html5arcadex.github.io/images/336.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "slicer-duo",
+    "thumbnail": "https://html5arcadex.github.io/images/337.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "save-the-bees",
+    "thumbnail": "https://html5arcadex.github.io/images/338.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sniper-master",
+    "thumbnail": "https://html5arcadex.github.io/images/339.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "99-balls",
+    "thumbnail": "https://html5arcadex.github.io/images/340.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "people-playground-ragdoll-arena",
+    "thumbnail": "https://html5arcadex.github.io/images/341.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "geometry-tower-defense",
+    "thumbnail": "https://html5arcadex.github.io/images/342.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "popcat-clicker",
+    "thumbnail": "https://html5arcadex.github.io/images/343.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "chain-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/344.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "paws-off-my-clues",
+    "thumbnail": "https://html5arcadex.github.io/images/345.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "eq-test-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/346.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "halloween-fruit-slice",
+    "thumbnail": "https://html5arcadex.github.io/images/347.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "daring-jack",
+    "thumbnail": "https://html5arcadex.github.io/images/348.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "robby-the-lava-tsunami",
+    "thumbnail": "https://html5arcadex.github.io/images/349.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "racing-master-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/350.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "cozy-kitchen-merge",
+    "thumbnail": "https://html5arcadex.github.io/images/351.webp",
+    "genre": "Cooking, Merge"
+  },
+  {
+    "id": "knockout-dudes",
+    "thumbnail": "https://html5arcadex.github.io/images/352.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "gloves-grow-rush",
+    "thumbnail": "https://html5arcadex.github.io/images/353.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "match-find-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/354.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "kiss-o-neck",
+    "thumbnail": "https://html5arcadex.github.io/images/355.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "noob-skyblock-survival",
+    "thumbnail": "https://html5arcadex.github.io/images/356.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "mahjong-masters",
+    "thumbnail": "https://html5arcadex.github.io/images/357.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "papas-burger-cook",
+    "thumbnail": "https://html5arcadex.github.io/images/358.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "eye-art-perfect-makeup-artist",
+    "thumbnail": "https://html5arcadex.github.io/images/359.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "basketball-stars-2026",
+    "thumbnail": "https://html5arcadex.github.io/images/360.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "roblo-x-zombie",
+    "thumbnail": "https://html5arcadex.github.io/images/361.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "bublix-bubble-hit",
+    "thumbnail": "https://html5arcadex.github.io/images/362.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "piggy-clicker",
+    "thumbnail": "https://html5arcadex.github.io/images/363.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "obby-pinata-party",
+    "thumbnail": "https://html5arcadex.github.io/images/364.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "frogtastic-marble-adventure",
+    "thumbnail": "https://html5arcadex.github.io/images/365.webp",
+    "genre": "Bubble Shooter, Match-3"
+  },
+  {
+    "id": "smashdoll",
+    "thumbnail": "https://html5arcadex.github.io/images/366.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "steal-car-duel",
+    "thumbnail": "https://html5arcadex.github.io/images/367.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "quest-by-country",
+    "thumbnail": "https://html5arcadex.github.io/images/368.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "farm-animal-sort-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/369.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "chickz-stack",
+    "thumbnail": "https://html5arcadex.github.io/images/370.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cannon-shooter",
+    "thumbnail": "https://html5arcadex.github.io/images/371.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "words-from-words-sea",
+    "thumbnail": "https://html5arcadex.github.io/images/372.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "phantom-thief-cat-running",
+    "thumbnail": "https://html5arcadex.github.io/images/373.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "2-player-battle",
+    "thumbnail": "https://html5arcadex.github.io/images/374.webp",
+    "genre": "Battle, Boardgames"
+  },
+  {
+    "id": "duo-family-santa",
+    "thumbnail": "https://html5arcadex.github.io/images/375.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "brawl-stars",
+    "thumbnail": "https://html5arcadex.github.io/images/376.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "steal-brainrot-monsters",
+    "thumbnail": "https://html5arcadex.github.io/images/377.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "word-search-universe-2",
+    "thumbnail": "https://html5arcadex.github.io/images/378.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "elementz",
+    "thumbnail": "https://html5arcadex.github.io/images/379.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "battle-arena",
+    "thumbnail": "https://html5arcadex.github.io/images/380.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "frog-knight",
+    "thumbnail": "https://html5arcadex.github.io/images/381.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "merge-beasts",
+    "thumbnail": "https://html5arcadex.github.io/images/382.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "army-defence-dino-shoot",
+    "thumbnail": "https://html5arcadex.github.io/images/383.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "claw-merge-labubu-drop",
+    "thumbnail": "https://html5arcadex.github.io/images/384.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mobile-legends-slime-3v3",
+    "thumbnail": "https://html5arcadex.github.io/images/385.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "northern-lights-the-secret-of-the-forest",
+    "thumbnail": "https://html5arcadex.github.io/images/386.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "coffee-color-blocks",
+    "thumbnail": "https://html5arcadex.github.io/images/387.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pyramidz2",
+    "thumbnail": "https://html5arcadex.github.io/images/388.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "number-rush",
+    "thumbnail": "https://html5arcadex.github.io/images/389.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "nubik-in-the-monster-world",
+    "thumbnail": "https://html5arcadex.github.io/images/390.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "flip-it-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/391.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "youtuber-mcraft-2player",
+    "thumbnail": "https://html5arcadex.github.io/images/392.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "stickman-adventure",
+    "thumbnail": "https://html5arcadex.github.io/images/393.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "idle-pet",
+    "thumbnail": "https://html5arcadex.github.io/images/394.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "my-city-hospital",
+    "thumbnail": "https://html5arcadex.github.io/images/395.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "zombie-defense-war",
+    "thumbnail": "https://html5arcadex.github.io/images/396.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "the-sort-agency",
+    "thumbnail": "https://html5arcadex.github.io/images/397.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "epic-stunts-pvp-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/398.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "wave-dash-geometry-arrow",
+    "thumbnail": "https://html5arcadex.github.io/images/399.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "triangle-way",
+    "thumbnail": "https://html5arcadex.github.io/images/400.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "crazy-axe",
+    "thumbnail": "https://html5arcadex.github.io/images/401.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "tap-it-away-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/402.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "poppytile",
+    "thumbnail": "https://html5arcadex.github.io/images/403.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "maido",
+    "thumbnail": "https://html5arcadex.github.io/images/404.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "meteoheroes",
+    "thumbnail": "https://html5arcadex.github.io/images/405.webp",
+    "genre": "Adventure, Educational"
+  },
+  {
+    "id": "xytrian-runner",
+    "thumbnail": "https://html5arcadex.github.io/images/406.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mahjong-connect-cookware",
+    "thumbnail": "https://html5arcadex.github.io/images/407.webp",
+    "genre": "Cooking, Mahjong & Connect"
+  },
+  {
+    "id": "angry-flappy",
+    "thumbnail": "https://html5arcadex.github.io/images/408.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "2-player-games-kids-kitchen",
+    "thumbnail": "https://html5arcadex.github.io/images/409.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "demolition-derby-derby",
+    "thumbnail": "https://html5arcadex.github.io/images/410.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ink-shop-dress-tattoo",
+    "thumbnail": "https://html5arcadex.github.io/images/411.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cool-cars-racing-at-altitude",
+    "thumbnail": "https://html5arcadex.github.io/images/412.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "guess-the-drawing",
+    "thumbnail": "https://html5arcadex.github.io/images/413.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "frost-land-snow-survival",
+    "thumbnail": "https://html5arcadex.github.io/images/414.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "wood-block-puzzle-3",
+    "thumbnail": "https://html5arcadex.github.io/images/415.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "blockapolypse-zombie-shooter",
+    "thumbnail": "https://html5arcadex.github.io/images/416.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "tiny-baker-ocean-jelly-cake",
+    "thumbnail": "https://html5arcadex.github.io/images/417.webp",
+    "genre": "Cooking"
+  },
+  {
+    "id": "sausage-man-shooting-adventure",
+    "thumbnail": "https://html5arcadex.github.io/images/418.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "shanghai-town",
+    "thumbnail": "https://html5arcadex.github.io/images/419.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "digit-shooter",
+    "thumbnail": "https://html5arcadex.github.io/images/420.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "paperwario",
+    "thumbnail": "https://html5arcadex.github.io/images/421.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "worm-escape",
+    "thumbnail": "https://html5arcadex.github.io/images/422.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "my-castle-merge-story",
+    "thumbnail": "https://html5arcadex.github.io/images/423.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "halloween-stickman-2",
+    "thumbnail": "https://html5arcadex.github.io/images/424.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "challenger-city-driver",
+    "thumbnail": "https://html5arcadex.github.io/images/425.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "toilet-time",
+    "thumbnail": "https://html5arcadex.github.io/images/426.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "shadow-fighter",
+    "thumbnail": "https://html5arcadex.github.io/images/427.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "bubble-trouble",
+    "thumbnail": "https://html5arcadex.github.io/images/428.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cat-cut",
+    "thumbnail": "https://html5arcadex.github.io/images/429.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "gift-merge-santa-world-tour",
+    "thumbnail": "https://html5arcadex.github.io/images/430.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "neon-dash-cyber-run",
+    "thumbnail": "https://html5arcadex.github.io/images/431.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "cop-simulator",
+    "thumbnail": "https://html5arcadex.github.io/images/432.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "sword-run-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/433.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "noob-in-geometry-dash",
+    "thumbnail": "https://html5arcadex.github.io/images/434.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "eat-donuts",
+    "thumbnail": "https://html5arcadex.github.io/images/435.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hexon-rush",
+    "thumbnail": "https://html5arcadex.github.io/images/436.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "zombie-highway-rampage",
+    "thumbnail": "https://html5arcadex.github.io/images/437.webp",
+    "genre": "Racing & Driving, Shooter"
+  },
+  {
+    "id": "human-leap-evolution",
+    "thumbnail": "https://html5arcadex.github.io/images/438.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "candy-jewels",
+    "thumbnail": "https://html5arcadex.github.io/images/439.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "block-dropping-merge",
+    "thumbnail": "https://html5arcadex.github.io/images/440.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "squarehead-hero",
+    "thumbnail": "https://html5arcadex.github.io/images/441.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "board-kings-board-dice",
+    "thumbnail": "https://html5arcadex.github.io/images/442.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "color-sort-impostor-edition",
+    "thumbnail": "https://html5arcadex.github.io/images/443.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "rich-choice-run",
+    "thumbnail": "https://html5arcadex.github.io/images/444.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "astral-escape",
+    "thumbnail": "https://html5arcadex.github.io/images/445.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "hidden-horrors",
+    "thumbnail": "https://html5arcadex.github.io/images/446.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mahjong-pet-quest",
+    "thumbnail": "https://html5arcadex.github.io/images/447.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "mahjong-solitaire-zodiac",
+    "thumbnail": "https://html5arcadex.github.io/images/448.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "merge-fruit",
+    "thumbnail": "https://html5arcadex.github.io/images/449.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "mega-shark",
+    "thumbnail": "https://html5arcadex.github.io/images/450.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "us-army-car-games-truck-driving",
+    "thumbnail": "https://html5arcadex.github.io/images/451.webp",
+    "genre": "Adventure, .IO"
+  },
+  {
+    "id": "mineblocks-3d-maze",
+    "thumbnail": "https://html5arcadex.github.io/images/452.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "save-stranding-fish",
+    "thumbnail": "https://html5arcadex.github.io/images/453.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "logic-storm-animals-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/454.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "brainrot-merge",
+    "thumbnail": "https://html5arcadex.github.io/images/455.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ellie-and-friends-venice-carnival",
+    "thumbnail": "https://html5arcadex.github.io/images/456.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "sort-game-toy-sort",
+    "thumbnail": "https://html5arcadex.github.io/images/457.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cars-derby-arena",
+    "thumbnail": "https://html5arcadex.github.io/images/458.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "vex-x3m",
+    "thumbnail": "https://html5arcadex.github.io/images/459.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "gun-evolution",
+    "thumbnail": "https://html5arcadex.github.io/images/460.webp",
+    "genre": "Shooter, Strategy"
+  },
+  {
+    "id": "ninja-bamboo-assassin",
+    "thumbnail": "https://html5arcadex.github.io/images/461.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "dart-hero",
+    "thumbnail": "https://html5arcadex.github.io/images/462.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "squid-game-memory-card-match",
+    "thumbnail": "https://html5arcadex.github.io/images/463.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pixel-path",
+    "thumbnail": "https://html5arcadex.github.io/images/464.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "2248-block-merge",
+    "thumbnail": "https://html5arcadex.github.io/images/465.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "falling-art-ragdoll-simulator",
+    "thumbnail": "https://html5arcadex.github.io/images/466.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "k-pop-hunter-halloween-fashion",
+    "thumbnail": "https://html5arcadex.github.io/images/467.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "solitaire-story-tripeaks-6",
+    "thumbnail": "https://html5arcadex.github.io/images/468.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "moto-road-rash-3d-2",
+    "thumbnail": "https://html5arcadex.github.io/images/469.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "pet-merge",
+    "thumbnail": "https://html5arcadex.github.io/images/470.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ultimate-sports-car-drift",
+    "thumbnail": "https://html5arcadex.github.io/images/471.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "rabbit-carrot",
+    "thumbnail": "https://html5arcadex.github.io/images/472.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "royal-garden-match-2",
+    "thumbnail": "https://html5arcadex.github.io/images/473.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "merge-muscle",
+    "thumbnail": "https://html5arcadex.github.io/images/474.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "slope-spooky",
+    "thumbnail": "https://html5arcadex.github.io/images/475.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "animation-coloring-alphabet-lore",
+    "thumbnail": "https://html5arcadex.github.io/images/476.webp",
+    "genre": "Art, Educational"
+  },
+  {
+    "id": "build-a-go-kart",
+    "thumbnail": "https://html5arcadex.github.io/images/477.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "my-garden-journey",
+    "thumbnail": "https://html5arcadex.github.io/images/478.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "puzzle-blocks-fill-it-completely",
+    "thumbnail": "https://html5arcadex.github.io/images/479.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "obby-rescue-pin",
+    "thumbnail": "https://html5arcadex.github.io/images/480.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "axe-throw",
+    "thumbnail": "https://html5arcadex.github.io/images/481.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "supermarket-simulator-dream-store",
+    "thumbnail": "https://html5arcadex.github.io/images/482.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "aqua-sort-water-color-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/483.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "perfect-tidy",
+    "thumbnail": "https://html5arcadex.github.io/images/484.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "sword-life",
+    "thumbnail": "https://html5arcadex.github.io/images/485.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dinosaurs-vs-asteroids",
+    "thumbnail": "https://html5arcadex.github.io/images/486.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "treasure-hunt-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/487.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mr-bounce",
+    "thumbnail": "https://html5arcadex.github.io/images/488.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "stack-sorting",
+    "thumbnail": "https://html5arcadex.github.io/images/489.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "jump-master",
+    "thumbnail": "https://html5arcadex.github.io/images/490.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "last-stand-warrior",
+    "thumbnail": "https://html5arcadex.github.io/images/491.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "lazy-workers",
+    "thumbnail": "https://html5arcadex.github.io/images/492.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "just-dice-random-tower-defence",
+    "thumbnail": "https://html5arcadex.github.io/images/493.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "rescue-sharp-turn",
+    "thumbnail": "https://html5arcadex.github.io/images/494.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "special-holiday-solitaire",
+    "thumbnail": "https://html5arcadex.github.io/images/495.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "candy-love",
+    "thumbnail": "https://html5arcadex.github.io/images/496.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "merge-brick-breaker",
+    "thumbnail": "https://html5arcadex.github.io/images/497.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "find-the-sprunki",
+    "thumbnail": "https://html5arcadex.github.io/images/498.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "school-escape-obbie-run",
+    "thumbnail": "https://html5arcadex.github.io/images/499.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "snakes",
+    "thumbnail": "https://html5arcadex.github.io/images/500.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "murder",
+    "thumbnail": "https://html5arcadex.github.io/images/501.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "forest-glade-mysteries",
+    "thumbnail": "https://html5arcadex.github.io/images/502.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "dungeon-master-cult-craft",
+    "thumbnail": "https://html5arcadex.github.io/images/503.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bowmasters",
+    "thumbnail": "https://html5arcadex.github.io/images/504.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "sudoku-brain-blocks",
+    "thumbnail": "https://html5arcadex.github.io/images/505.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "merge-food-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/506.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "strawberry-shortcake-boardgames",
+    "thumbnail": "https://html5arcadex.github.io/images/507.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "blast-cubes",
+    "thumbnail": "https://html5arcadex.github.io/images/508.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "metal-bay-top-blade-power",
+    "thumbnail": "https://html5arcadex.github.io/images/509.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "city-banana-man-agent",
+    "thumbnail": "https://html5arcadex.github.io/images/510.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "gym-muscle-merge-tycoon",
+    "thumbnail": "https://html5arcadex.github.io/images/511.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "plug-man-race",
+    "thumbnail": "https://html5arcadex.github.io/images/512.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "twisted-rope",
+    "thumbnail": "https://html5arcadex.github.io/images/513.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hero-tower-war",
+    "thumbnail": "https://html5arcadex.github.io/images/514.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "daddy-cactus",
+    "thumbnail": "https://html5arcadex.github.io/images/515.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "garage-master-nuts-and-bolts",
+    "thumbnail": "https://html5arcadex.github.io/images/516.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sportsball-merge",
+    "thumbnail": "https://html5arcadex.github.io/images/517.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "vsco-girl-aesthetic",
+    "thumbnail": "https://html5arcadex.github.io/images/518.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "grow-a-garden-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/519.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "tank-fury-boss-battle-2d",
+    "thumbnail": "https://html5arcadex.github.io/images/520.webp",
+    "genre": "Battle, Simulation"
+  },
+  {
+    "id": "idle-hotel-empire",
+    "thumbnail": "https://html5arcadex.github.io/images/521.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "2-3-4-player-games",
+    "thumbnail": "https://html5arcadex.github.io/images/522.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "hostage-fishes",
+    "thumbnail": "https://html5arcadex.github.io/images/523.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "citymix-solitaire",
+    "thumbnail": "https://html5arcadex.github.io/images/524.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "exit-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/525.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "no-pain-no-gain-ragdoll-sandbox",
+    "thumbnail": "https://html5arcadex.github.io/images/526.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "heist-defender",
+    "thumbnail": "https://html5arcadex.github.io/images/527.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "jennys-math-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/528.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "dream-restaurant-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/529.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "snakemaxx",
+    "thumbnail": "https://html5arcadex.github.io/images/530.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "going-balls-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/531.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "shape-shifting",
+    "thumbnail": "https://html5arcadex.github.io/images/532.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "farm-triple-match",
+    "thumbnail": "https://html5arcadex.github.io/images/533.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "pin-master",
+    "thumbnail": "https://html5arcadex.github.io/images/534.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "house-deep-clean-sim",
+    "thumbnail": "https://html5arcadex.github.io/images/535.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "chibi-doll-coloring-dress-up",
+    "thumbnail": "https://html5arcadex.github.io/images/536.webp",
+    "genre": "Art, Dress-up"
+  },
+  {
+    "id": "word-solitaire",
+    "thumbnail": "https://html5arcadex.github.io/images/537.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "dance-on-hotsteps-mobile",
+    "thumbnail": "https://html5arcadex.github.io/images/538.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "key-quest",
+    "thumbnail": "https://html5arcadex.github.io/images/539.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "merge-combo",
+    "thumbnail": "https://html5arcadex.github.io/images/540.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "stickman-jailbreak-story",
+    "thumbnail": "https://html5arcadex.github.io/images/541.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "draw-to-kill",
+    "thumbnail": "https://html5arcadex.github.io/images/542.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ninja-wars-battle-simulator",
+    "thumbnail": "https://html5arcadex.github.io/images/543.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "supermarket-simulator-cashier-game",
+    "thumbnail": "https://html5arcadex.github.io/images/544.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "3dash",
+    "thumbnail": "https://html5arcadex.github.io/images/545.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "only-up-parkour-2",
+    "thumbnail": "https://html5arcadex.github.io/images/546.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "pet-fall",
+    "thumbnail": "https://html5arcadex.github.io/images/547.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "black-pink-halloween-concert",
+    "thumbnail": "https://html5arcadex.github.io/images/548.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "noob-village-tower-defense",
+    "thumbnail": "https://html5arcadex.github.io/images/549.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "screw-spin",
+    "thumbnail": "https://html5arcadex.github.io/images/550.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "vibe-colouring",
+    "thumbnail": "https://html5arcadex.github.io/images/551.webp",
+    "genre": "Art"
+  },
+  {
+    "id": "super-hero-driving-school",
+    "thumbnail": "https://html5arcadex.github.io/images/552.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "merge-run-battle",
+    "thumbnail": "https://html5arcadex.github.io/images/553.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "zenith-rush",
+    "thumbnail": "https://html5arcadex.github.io/images/554.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "colossatron",
+    "thumbnail": "https://html5arcadex.github.io/images/555.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "geometry-vibes-x-arrow",
+    "thumbnail": "https://html5arcadex.github.io/images/556.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "card-solitaire-word-game",
+    "thumbnail": "https://html5arcadex.github.io/images/557.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "coe-rabbit",
+    "thumbnail": "https://html5arcadex.github.io/images/558.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ice-fishing-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/559.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "reversi",
+    "thumbnail": "https://html5arcadex.github.io/images/560.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "steal-brainrot-eggs",
+    "thumbnail": "https://html5arcadex.github.io/images/561.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "gun-shooting-games-sniper-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/562.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "k-pop-hunters-valentine-style",
+    "thumbnail": "https://html5arcadex.github.io/images/563.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "hoard-master",
+    "thumbnail": "https://html5arcadex.github.io/images/564.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "piece-of-cake-merge-and-bake",
+    "thumbnail": "https://html5arcadex.github.io/images/565.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cyber-highway-escape",
+    "thumbnail": "https://html5arcadex.github.io/images/566.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "whats-in-my-bag",
+    "thumbnail": "https://html5arcadex.github.io/images/567.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "avenger-guard",
+    "thumbnail": "https://html5arcadex.github.io/images/568.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "max-mixed-cocktails",
+    "thumbnail": "https://html5arcadex.github.io/images/569.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "head-runner-dash",
+    "thumbnail": "https://html5arcadex.github.io/images/570.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stickman-weapon-master",
+    "thumbnail": "https://html5arcadex.github.io/images/571.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "mahjong-connect-spooky",
+    "thumbnail": "https://html5arcadex.github.io/images/572.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "hide-me",
+    "thumbnail": "https://html5arcadex.github.io/images/573.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mermaid-wedding-world",
+    "thumbnail": "https://html5arcadex.github.io/images/574.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "emoji-guess",
+    "thumbnail": "https://html5arcadex.github.io/images/575.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "labubu-pop",
+    "thumbnail": "https://html5arcadex.github.io/images/576.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "inspector-cat",
+    "thumbnail": "https://html5arcadex.github.io/images/577.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "chicken-banana-run",
+    "thumbnail": "https://html5arcadex.github.io/images/578.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "disk-rush",
+    "thumbnail": "https://html5arcadex.github.io/images/579.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "maze-hide-or-seek",
+    "thumbnail": "https://html5arcadex.github.io/images/580.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "barbiecore-aesthetics",
+    "thumbnail": "https://html5arcadex.github.io/images/581.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "leap-of-life",
+    "thumbnail": "https://html5arcadex.github.io/images/582.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "springle-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/583.webp",
+    "genre": "Jigsaw"
+  },
+  {
+    "id": "angry-plants-flower",
+    "thumbnail": "https://html5arcadex.github.io/images/584.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "catch-a-fish-obby",
+    "thumbnail": "https://html5arcadex.github.io/images/585.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "join-clash-color-button",
+    "thumbnail": "https://html5arcadex.github.io/images/586.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "royal-pin",
+    "thumbnail": "https://html5arcadex.github.io/images/587.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "block-blast-jewel-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/588.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "squishy-taba-paw-asmr",
+    "thumbnail": "https://html5arcadex.github.io/images/589.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "zombie-driver",
+    "thumbnail": "https://html5arcadex.github.io/images/590.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "find-sort-match",
+    "thumbnail": "https://html5arcadex.github.io/images/591.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "rough-ball",
+    "thumbnail": "https://html5arcadex.github.io/images/592.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "rainbow-balls-2048",
+    "thumbnail": "https://html5arcadex.github.io/images/593.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "the-roman-empire-colosseum",
+    "thumbnail": "https://html5arcadex.github.io/images/594.webp",
+    "genre": "Battle, Simulation"
+  },
+  {
+    "id": "power-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/595.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ball-sort-color-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/596.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "american-block-sniper-online",
+    "thumbnail": "https://html5arcadex.github.io/images/597.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "zombie-survival-shooter",
+    "thumbnail": "https://html5arcadex.github.io/images/598.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "100-rooms-escape",
+    "thumbnail": "https://html5arcadex.github.io/images/599.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "idle-drive-merge-upgrade-drive",
+    "thumbnail": "https://html5arcadex.github.io/images/600.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "stickman-rocket",
+    "thumbnail": "https://html5arcadex.github.io/images/601.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "mineblock-obby",
+    "thumbnail": "https://html5arcadex.github.io/images/602.webp",
+    "genre": "Sports, Agility"
+  },
+  {
+    "id": "chicken-banana-quest",
+    "thumbnail": "https://html5arcadex.github.io/images/603.webp",
+    "genre": "Art, Casual"
+  },
+  {
+    "id": "asmr-girl-livestream-mukbang",
+    "thumbnail": "https://html5arcadex.github.io/images/604.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "protect-my-dog-3",
+    "thumbnail": "https://html5arcadex.github.io/images/605.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "color-brain-test-games",
+    "thumbnail": "https://html5arcadex.github.io/images/606.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bank-robbery-3",
+    "thumbnail": "https://html5arcadex.github.io/images/607.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "cube-king",
+    "thumbnail": "https://html5arcadex.github.io/images/608.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "devs-simulator",
+    "thumbnail": "https://html5arcadex.github.io/images/609.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ninja-survivor",
+    "thumbnail": "https://html5arcadex.github.io/images/610.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "ice-skating-ballerina",
+    "thumbnail": "https://html5arcadex.github.io/images/611.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "puzzles-balls-merge-the-new-year",
+    "thumbnail": "https://html5arcadex.github.io/images/612.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "obby-tower-parkour-climb",
+    "thumbnail": "https://html5arcadex.github.io/images/613.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "skating-park",
+    "thumbnail": "https://html5arcadex.github.io/images/614.webp",
+    "genre": "Racing & Driving, .IO"
+  },
+  {
+    "id": "summon-tribe",
+    "thumbnail": "https://html5arcadex.github.io/images/615.webp",
+    "genre": "Battle, Merge"
+  },
+  {
+    "id": "kings-and-queens-match",
+    "thumbnail": "https://html5arcadex.github.io/images/616.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "mech-monster-arena",
+    "thumbnail": "https://html5arcadex.github.io/images/617.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "eat-and-grow-fish",
+    "thumbnail": "https://html5arcadex.github.io/images/618.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "underwater-survival",
+    "thumbnail": "https://html5arcadex.github.io/images/619.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "zombie-raft",
+    "thumbnail": "https://html5arcadex.github.io/images/620.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "ship-control-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/621.webp",
+    "genre": "Sports, Agility"
+  },
+  {
+    "id": "shape-transform-blob-racing",
+    "thumbnail": "https://html5arcadex.github.io/images/622.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "rescue-rift",
+    "thumbnail": "https://html5arcadex.github.io/images/623.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "word-connect-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/624.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "candy-color-sort-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/625.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "dig-out-of-prison",
+    "thumbnail": "https://html5arcadex.github.io/images/626.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "animal-merge-zoo-park",
+    "thumbnail": "https://html5arcadex.github.io/images/627.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "slinger-block",
+    "thumbnail": "https://html5arcadex.github.io/images/628.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "princess-rescue-save-girl",
+    "thumbnail": "https://html5arcadex.github.io/images/629.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bloons-survivalio",
+    "thumbnail": "https://html5arcadex.github.io/images/630.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "digital-circus-io",
+    "thumbnail": "https://html5arcadex.github.io/images/631.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "reflect-beam-laser-logic",
+    "thumbnail": "https://html5arcadex.github.io/images/632.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fashion-dye-pro",
+    "thumbnail": "https://html5arcadex.github.io/images/633.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "brainrots-lava-survive-online",
+    "thumbnail": "https://html5arcadex.github.io/images/634.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "the-zombie-house",
+    "thumbnail": "https://html5arcadex.github.io/images/635.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "merge-2048-cake",
+    "thumbnail": "https://html5arcadex.github.io/images/636.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "barbee-black-friday-fashion",
+    "thumbnail": "https://html5arcadex.github.io/images/637.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "car-park-simulator",
+    "thumbnail": "https://html5arcadex.github.io/images/638.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "tricky-challenges-mini-games",
+    "thumbnail": "https://html5arcadex.github.io/images/639.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "path-ice",
+    "thumbnail": "https://html5arcadex.github.io/images/640.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "happy-fluffy-cubes",
+    "thumbnail": "https://html5arcadex.github.io/images/641.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "shelf-shift-match",
+    "thumbnail": "https://html5arcadex.github.io/images/642.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "hungry-snake-io",
+    "thumbnail": "https://html5arcadex.github.io/images/643.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "super-tank-wrestle",
+    "thumbnail": "https://html5arcadex.github.io/images/644.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "machine-city-balls",
+    "thumbnail": "https://html5arcadex.github.io/images/645.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "blankets",
+    "thumbnail": "https://html5arcadex.github.io/images/646.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "max-speed",
+    "thumbnail": "https://html5arcadex.github.io/images/647.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "animal-swipe",
+    "thumbnail": "https://html5arcadex.github.io/images/648.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "sky-riders-buk",
+    "thumbnail": "https://html5arcadex.github.io/images/649.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pool-master",
+    "thumbnail": "https://html5arcadex.github.io/images/650.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "sprunki-mini-games",
+    "thumbnail": "https://html5arcadex.github.io/images/651.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "eco-block-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/652.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "angry-city-smasher",
+    "thumbnail": "https://html5arcadex.github.io/images/653.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "block-sniper",
+    "thumbnail": "https://html5arcadex.github.io/images/654.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "flag-puzzle-jam-collect-flags",
+    "thumbnail": "https://html5arcadex.github.io/images/655.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cupids-story-love-archer-bow",
+    "thumbnail": "https://html5arcadex.github.io/images/656.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "free-hoops",
+    "thumbnail": "https://html5arcadex.github.io/images/657.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pew-pew-dose",
+    "thumbnail": "https://html5arcadex.github.io/images/658.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "call-of-the-jungle-animal-evolution",
+    "thumbnail": "https://html5arcadex.github.io/images/659.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "spooky-chains",
+    "thumbnail": "https://html5arcadex.github.io/images/660.webp",
+    "genre": "Agility, Match-3"
+  },
+  {
+    "id": "office-knight-3d-castle-defense",
+    "thumbnail": "https://html5arcadex.github.io/images/661.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "merge-pixel",
+    "thumbnail": "https://html5arcadex.github.io/images/662.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "hidden-kitty",
+    "thumbnail": "https://html5arcadex.github.io/images/663.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "crash-the-robot",
+    "thumbnail": "https://html5arcadex.github.io/images/664.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fidget-trading-card-toy",
+    "thumbnail": "https://html5arcadex.github.io/images/665.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "javelin-battle",
+    "thumbnail": "https://html5arcadex.github.io/images/666.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bus-jam",
+    "thumbnail": "https://html5arcadex.github.io/images/667.webp",
+    "genre": "Puzzle, Racing & Driving"
+  },
+  {
+    "id": "royal-jewels-match",
+    "thumbnail": "https://html5arcadex.github.io/images/668.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "pesky-moles",
+    "thumbnail": "https://html5arcadex.github.io/images/669.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "xmas-hexa-sort",
+    "thumbnail": "https://html5arcadex.github.io/images/670.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "solitaire-home-story",
+    "thumbnail": "https://html5arcadex.github.io/images/671.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bird-sort-challenges",
+    "thumbnail": "https://html5arcadex.github.io/images/672.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "black-pink-christmas-concert",
+    "thumbnail": "https://html5arcadex.github.io/images/673.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "warping-bat",
+    "thumbnail": "https://html5arcadex.github.io/images/674.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "math-wall-simulator",
+    "thumbnail": "https://html5arcadex.github.io/images/675.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "egg-dash",
+    "thumbnail": "https://html5arcadex.github.io/images/676.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "panda-dash-auto-shooting",
+    "thumbnail": "https://html5arcadex.github.io/images/677.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "shellshockersio",
+    "thumbnail": "https://html5arcadex.github.io/images/678.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fish-out-of-water",
+    "thumbnail": "https://html5arcadex.github.io/images/679.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mobile-phone-case-design-diy",
+    "thumbnail": "https://html5arcadex.github.io/images/680.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "planet-demolish",
+    "thumbnail": "https://html5arcadex.github.io/images/681.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cute-coloring-games",
+    "thumbnail": "https://html5arcadex.github.io/images/682.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dolphin-dash",
+    "thumbnail": "https://html5arcadex.github.io/images/683.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "road-of-fury-4",
+    "thumbnail": "https://html5arcadex.github.io/images/684.webp",
+    "genre": "Racing & Driving, Shooter"
+  },
+  {
+    "id": "popsortica",
+    "thumbnail": "https://html5arcadex.github.io/images/685.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hidden-object-adventure",
+    "thumbnail": "https://html5arcadex.github.io/images/686.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ragdoll-arena-2-player",
+    "thumbnail": "https://html5arcadex.github.io/images/687.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "color-yarn-sort",
+    "thumbnail": "https://html5arcadex.github.io/images/688.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "spider-rope-hero-city-fight",
+    "thumbnail": "https://html5arcadex.github.io/images/689.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "tictoc-braided-hairstyles",
+    "thumbnail": "https://html5arcadex.github.io/images/690.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "mr-long-hand",
+    "thumbnail": "https://html5arcadex.github.io/images/691.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pet-salon",
+    "thumbnail": "https://html5arcadex.github.io/images/692.webp",
+    "genre": "Care"
+  },
+  {
+    "id": "bouncepop-quest",
+    "thumbnail": "https://html5arcadex.github.io/images/693.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "spades",
+    "thumbnail": "https://html5arcadex.github.io/images/694.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "67-clicker",
+    "thumbnail": "https://html5arcadex.github.io/images/695.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "happy-brothers",
+    "thumbnail": "https://html5arcadex.github.io/images/696.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "capybara-coin-master",
+    "thumbnail": "https://html5arcadex.github.io/images/697.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "gmod-bombs",
+    "thumbnail": "https://html5arcadex.github.io/images/698.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "slide-block-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/699.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "happy-jump",
+    "thumbnail": "https://html5arcadex.github.io/images/700.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "flower-shop",
+    "thumbnail": "https://html5arcadex.github.io/images/701.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "dice-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/702.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "hex-empire",
+    "thumbnail": "https://html5arcadex.github.io/images/703.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "animal-link",
+    "thumbnail": "https://html5arcadex.github.io/images/704.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "skyscraper-to-the-sky",
+    "thumbnail": "https://html5arcadex.github.io/images/705.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "jetstream-escape",
+    "thumbnail": "https://html5arcadex.github.io/images/706.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "meow-block-color-collect",
+    "thumbnail": "https://html5arcadex.github.io/images/707.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "coins",
+    "thumbnail": "https://html5arcadex.github.io/images/708.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "snow-road-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/709.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "elemental-dressup-magic",
+    "thumbnail": "https://html5arcadex.github.io/images/710.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "galaxy-clicker",
+    "thumbnail": "https://html5arcadex.github.io/images/711.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "marble-blast",
+    "thumbnail": "https://html5arcadex.github.io/images/712.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "puzzle-blocks-asmr-match",
+    "thumbnail": "https://html5arcadex.github.io/images/713.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "energy-factory-idle",
+    "thumbnail": "https://html5arcadex.github.io/images/714.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "funny-doctor-emergency",
+    "thumbnail": "https://html5arcadex.github.io/images/715.webp",
+    "genre": "Care"
+  },
+  {
+    "id": "stick-vs-monster-school-2",
+    "thumbnail": "https://html5arcadex.github.io/images/716.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "car-mechanic-simulator-2025",
+    "thumbnail": "https://html5arcadex.github.io/images/717.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "dunk-challenge",
+    "thumbnail": "https://html5arcadex.github.io/images/718.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "drive-ahead-sports",
+    "thumbnail": "https://html5arcadex.github.io/images/719.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "traffic-rider-vvq",
+    "thumbnail": "https://html5arcadex.github.io/images/720.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sorting-xmas-balls",
+    "thumbnail": "https://html5arcadex.github.io/images/721.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "merge-town",
+    "thumbnail": "https://html5arcadex.github.io/images/722.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "cube-drop-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/723.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "lode-retro-adventure",
+    "thumbnail": "https://html5arcadex.github.io/images/724.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "mahjong-build-farm",
+    "thumbnail": "https://html5arcadex.github.io/images/725.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "galactic-golf-solitaire",
+    "thumbnail": "https://html5arcadex.github.io/images/726.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "escape-tsunami-for-brainrots-wfe",
+    "thumbnail": "https://html5arcadex.github.io/images/727.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "planet-takeover",
+    "thumbnail": "https://html5arcadex.github.io/images/728.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "funny-balls-2048",
+    "thumbnail": "https://html5arcadex.github.io/images/729.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "gas-station-junkyard-tycoon",
+    "thumbnail": "https://html5arcadex.github.io/images/730.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "battle-zone-2d",
+    "thumbnail": "https://html5arcadex.github.io/images/731.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "solitaire-winter",
+    "thumbnail": "https://html5arcadex.github.io/images/732.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "tap-away-block-puzzle-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/733.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "striped-fruit-watermelon-land",
+    "thumbnail": "https://html5arcadex.github.io/images/734.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "polytrack",
+    "thumbnail": "https://html5arcadex.github.io/images/735.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zombcopter",
+    "thumbnail": "https://html5arcadex.github.io/images/736.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "ludo-star",
+    "thumbnail": "https://html5arcadex.github.io/images/737.webp",
+    "genre": "Boardgames, Casual"
+  },
+  {
+    "id": "destination-brain-test",
+    "thumbnail": "https://html5arcadex.github.io/images/738.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "marble-puzzle-quest",
+    "thumbnail": "https://html5arcadex.github.io/images/739.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "besties-chinese-new-year-celebration",
+    "thumbnail": "https://html5arcadex.github.io/images/740.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "sword-play-ninja-slice-runner",
+    "thumbnail": "https://html5arcadex.github.io/images/741.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "food-card-sort",
+    "thumbnail": "https://html5arcadex.github.io/images/742.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "jump-up-3d-basketball-game",
+    "thumbnail": "https://html5arcadex.github.io/images/743.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "2048-number-match",
+    "thumbnail": "https://html5arcadex.github.io/images/744.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "merge-smith",
+    "thumbnail": "https://html5arcadex.github.io/images/745.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "world-war-brothers-ww2",
+    "thumbnail": "https://html5arcadex.github.io/images/746.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "grass-defense",
+    "thumbnail": "https://html5arcadex.github.io/images/747.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "swordedio-spin-and-rub",
+    "thumbnail": "https://html5arcadex.github.io/images/748.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "idle-inventor",
+    "thumbnail": "https://html5arcadex.github.io/images/749.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "music-rush",
+    "thumbnail": "https://html5arcadex.github.io/images/750.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "magic-solitaire",
+    "thumbnail": "https://html5arcadex.github.io/images/751.webp",
+    "genre": "Adventure, Cards"
+  },
+  {
+    "id": "zen-tile",
+    "thumbnail": "https://html5arcadex.github.io/images/752.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "word-cross",
+    "thumbnail": "https://html5arcadex.github.io/images/753.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hero-transform-run",
+    "thumbnail": "https://html5arcadex.github.io/images/754.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "jumper",
+    "thumbnail": "https://html5arcadex.github.io/images/755.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "slide-stone",
+    "thumbnail": "https://html5arcadex.github.io/images/756.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "push-the-colors",
+    "thumbnail": "https://html5arcadex.github.io/images/757.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "ragdoll-bounce",
+    "thumbnail": "https://html5arcadex.github.io/images/758.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "noob-parkour-tricks",
+    "thumbnail": "https://html5arcadex.github.io/images/759.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "highway-bus-rush",
+    "thumbnail": "https://html5arcadex.github.io/images/760.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "frogio",
+    "thumbnail": "https://html5arcadex.github.io/images/761.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "connect-clues-the-missing-professor",
+    "thumbnail": "https://html5arcadex.github.io/images/762.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hidden-object-clues-and-mysteries",
+    "thumbnail": "https://html5arcadex.github.io/images/763.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "doomsday-survival-rpg-shooter",
+    "thumbnail": "https://html5arcadex.github.io/images/764.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "nine-cards-of-winter",
+    "thumbnail": "https://html5arcadex.github.io/images/765.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "tap-away",
+    "thumbnail": "https://html5arcadex.github.io/images/766.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "annas-story-dress-up-diy",
+    "thumbnail": "https://html5arcadex.github.io/images/767.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "cat-life-simulator",
+    "thumbnail": "https://html5arcadex.github.io/images/768.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "survive-the-night",
+    "thumbnail": "https://html5arcadex.github.io/images/769.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ping-pong-air",
+    "thumbnail": "https://html5arcadex.github.io/images/770.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "drawer-sort",
+    "thumbnail": "https://html5arcadex.github.io/images/771.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "stardom-alt-girls-fashion-duel",
+    "thumbnail": "https://html5arcadex.github.io/images/772.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "liquid-sort-deluxe",
+    "thumbnail": "https://html5arcadex.github.io/images/773.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "paint-it",
+    "thumbnail": "https://html5arcadex.github.io/images/774.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "tiny-farm",
+    "thumbnail": "https://html5arcadex.github.io/images/775.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "animal-blocks",
+    "thumbnail": "https://html5arcadex.github.io/images/776.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "capybara-block-blast",
+    "thumbnail": "https://html5arcadex.github.io/images/777.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "office-spider-solitaire",
+    "thumbnail": "https://html5arcadex.github.io/images/778.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "clean-the-ocean",
+    "thumbnail": "https://html5arcadex.github.io/images/779.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "tricky-life",
+    "thumbnail": "https://html5arcadex.github.io/images/780.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bubble-up",
+    "thumbnail": "https://html5arcadex.github.io/images/781.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hair-stack-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/782.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "super-soccer-noggins",
+    "thumbnail": "https://html5arcadex.github.io/images/783.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "cs-upgrade-gun",
+    "thumbnail": "https://html5arcadex.github.io/images/784.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "brain-test-one-line-draw-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/785.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "monster-high-spooky-fashion",
+    "thumbnail": "https://html5arcadex.github.io/images/786.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "stand-on-the-right-color-robby",
+    "thumbnail": "https://html5arcadex.github.io/images/787.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "cake-link-master",
+    "thumbnail": "https://html5arcadex.github.io/images/788.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "robberies-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/789.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "rummy-500-card-game",
+    "thumbnail": "https://html5arcadex.github.io/images/790.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "zombie-road-shooter-with-destruction",
+    "thumbnail": "https://html5arcadex.github.io/images/791.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "clash-run",
+    "thumbnail": "https://html5arcadex.github.io/images/792.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dragon-draw-joust",
+    "thumbnail": "https://html5arcadex.github.io/images/793.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "traffic-run-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/794.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "farm-mahjong-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/795.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "merge-christmas",
+    "thumbnail": "https://html5arcadex.github.io/images/796.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "city-gas-station-simulator",
+    "thumbnail": "https://html5arcadex.github.io/images/797.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "pim-path",
+    "thumbnail": "https://html5arcadex.github.io/images/798.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cooking-festival",
+    "thumbnail": "https://html5arcadex.github.io/images/799.webp",
+    "genre": "Cooking"
+  },
+  {
+    "id": "magic-bubbles",
+    "thumbnail": "https://html5arcadex.github.io/images/800.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "gold-miner-classic",
+    "thumbnail": "https://html5arcadex.github.io/images/801.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "broken-city-combat",
+    "thumbnail": "https://html5arcadex.github.io/images/802.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "ball-sort",
+    "thumbnail": "https://html5arcadex.github.io/images/803.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "gravity-matcher",
+    "thumbnail": "https://html5arcadex.github.io/images/804.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fashion-heroes-academy",
+    "thumbnail": "https://html5arcadex.github.io/images/805.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "interior-designer-decor-life",
+    "thumbnail": "https://html5arcadex.github.io/images/806.webp",
+    "genre": "Art, Simulation"
+  },
+  {
+    "id": "fashion-princess-dress-up",
+    "thumbnail": "https://html5arcadex.github.io/images/807.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "word-rivers",
+    "thumbnail": "https://html5arcadex.github.io/images/808.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mahjong-earth",
+    "thumbnail": "https://html5arcadex.github.io/images/809.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mr-macagi-adventures",
+    "thumbnail": "https://html5arcadex.github.io/images/810.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "jigsolitaire",
+    "thumbnail": "https://html5arcadex.github.io/images/811.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "seat-jam-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/812.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "strategy-of-war-tanks-and-helicopters",
+    "thumbnail": "https://html5arcadex.github.io/images/813.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "my-happy-farm",
+    "thumbnail": "https://html5arcadex.github.io/images/814.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "find-steal-brainrot-67-game",
+    "thumbnail": "https://html5arcadex.github.io/images/815.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sakura-branch",
+    "thumbnail": "https://html5arcadex.github.io/images/816.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "doodle-football",
+    "thumbnail": "https://html5arcadex.github.io/images/817.webp",
+    "genre": "Football, Casual"
+  },
+  {
+    "id": "king-of-the-hill",
+    "thumbnail": "https://html5arcadex.github.io/images/818.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "miniblox",
+    "thumbnail": "https://html5arcadex.github.io/images/819.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "robot-terminator-t-rex",
+    "thumbnail": "https://html5arcadex.github.io/images/820.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "car-fighter",
+    "thumbnail": "https://html5arcadex.github.io/images/821.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "number-tricky-puzzles",
+    "thumbnail": "https://html5arcadex.github.io/images/822.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "one-line-drawing",
+    "thumbnail": "https://html5arcadex.github.io/images/823.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dont-panic-dude",
+    "thumbnail": "https://html5arcadex.github.io/images/824.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "the-shape",
+    "thumbnail": "https://html5arcadex.github.io/images/825.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "horror-minecraft-partytime",
+    "thumbnail": "https://html5arcadex.github.io/images/826.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "mma-super-fight",
+    "thumbnail": "https://html5arcadex.github.io/images/827.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "monster-arena",
+    "thumbnail": "https://html5arcadex.github.io/images/828.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sausage-flip-free",
+    "thumbnail": "https://html5arcadex.github.io/images/829.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "back-2-school-makeover",
+    "thumbnail": "https://html5arcadex.github.io/images/830.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "obby-vs-zombies",
+    "thumbnail": "https://html5arcadex.github.io/images/831.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "magic-forest-merge-the-secrets",
+    "thumbnail": "https://html5arcadex.github.io/images/832.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cube-combo",
+    "thumbnail": "https://html5arcadex.github.io/images/833.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "coin-blitz",
+    "thumbnail": "https://html5arcadex.github.io/images/834.webp",
+    "genre": "Shooter, Strategy"
+  },
+  {
+    "id": "bloons-tower-defense-4",
+    "thumbnail": "https://html5arcadex.github.io/images/835.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ultimate-tower-defense",
+    "thumbnail": "https://html5arcadex.github.io/images/836.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "counter-craft-sniper",
+    "thumbnail": "https://html5arcadex.github.io/images/837.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "perfect-piano-magic",
+    "thumbnail": "https://html5arcadex.github.io/images/838.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "1945-air-force-airplane",
+    "thumbnail": "https://html5arcadex.github.io/images/839.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "obby-tsunami-escape-1-by-car",
+    "thumbnail": "https://html5arcadex.github.io/images/840.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "brainrot-cleaning",
+    "thumbnail": "https://html5arcadex.github.io/images/841.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "what-a-walk",
+    "thumbnail": "https://html5arcadex.github.io/images/842.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hexa-tile-master",
+    "thumbnail": "https://html5arcadex.github.io/images/843.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "little-dentist-dash",
+    "thumbnail": "https://html5arcadex.github.io/images/844.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "block-cut-cleaner",
+    "thumbnail": "https://html5arcadex.github.io/images/845.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "woods-of-nevia-forest-survival",
+    "thumbnail": "https://html5arcadex.github.io/images/846.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "buildnow-gg",
+    "thumbnail": "https://html5arcadex.github.io/images/847.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "coin-color-sort",
+    "thumbnail": "https://html5arcadex.github.io/images/848.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mini-obby-war-game",
+    "thumbnail": "https://html5arcadex.github.io/images/849.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "pick-brainrot-3d-battle",
+    "thumbnail": "https://html5arcadex.github.io/images/850.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "cocktailz",
+    "thumbnail": "https://html5arcadex.github.io/images/851.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "cake-merge",
+    "thumbnail": "https://html5arcadex.github.io/images/852.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "pato-vs-cops",
+    "thumbnail": "https://html5arcadex.github.io/images/853.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "over-the-rainbow",
+    "thumbnail": "https://html5arcadex.github.io/images/854.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "minicraft-winterblock",
+    "thumbnail": "https://html5arcadex.github.io/images/855.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "dino-idle-park",
+    "thumbnail": "https://html5arcadex.github.io/images/856.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "winter-maze",
+    "thumbnail": "https://html5arcadex.github.io/images/857.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "moto-cabbie-simulator",
+    "thumbnail": "https://html5arcadex.github.io/images/858.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "hexa-sort",
+    "thumbnail": "https://html5arcadex.github.io/images/859.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "police-station",
+    "thumbnail": "https://html5arcadex.github.io/images/860.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "excavator-simulator-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/861.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "pet-me-maze",
+    "thumbnail": "https://html5arcadex.github.io/images/862.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "draw-to-fly",
+    "thumbnail": "https://html5arcadex.github.io/images/863.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ammo-rush-master",
+    "thumbnail": "https://html5arcadex.github.io/images/864.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "color-nuts-bolts-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/865.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "murder-mystery",
+    "thumbnail": "https://html5arcadex.github.io/images/866.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "nuwpys-adventure",
+    "thumbnail": "https://html5arcadex.github.io/images/867.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "the-kulka",
+    "thumbnail": "https://html5arcadex.github.io/images/868.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "trivia-nation",
+    "thumbnail": "https://html5arcadex.github.io/images/869.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "celebrities-get-ready-for-christmas",
+    "thumbnail": "https://html5arcadex.github.io/images/870.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "jixora-jigsaw-solitaire-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/871.webp",
+    "genre": "Jigsaw, Strategy"
+  },
+  {
+    "id": "cleaning-simulator",
+    "thumbnail": "https://html5arcadex.github.io/images/872.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "sniper-freeze",
+    "thumbnail": "https://html5arcadex.github.io/images/873.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "traitor-beaver",
+    "thumbnail": "https://html5arcadex.github.io/images/874.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "marble-run-ultimate-race",
+    "thumbnail": "https://html5arcadex.github.io/images/875.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "college-girls-team-makeover",
+    "thumbnail": "https://html5arcadex.github.io/images/876.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "tetro-merge",
+    "thumbnail": "https://html5arcadex.github.io/images/877.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "swat-plants-vs-zombies",
+    "thumbnail": "https://html5arcadex.github.io/images/878.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "headless-joe",
+    "thumbnail": "https://html5arcadex.github.io/images/879.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "zindex",
+    "thumbnail": "https://html5arcadex.github.io/images/880.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "mahjong-at-home-scandinavian-edition",
+    "thumbnail": "https://html5arcadex.github.io/images/881.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "little-master-of-assembly",
+    "thumbnail": "https://html5arcadex.github.io/images/882.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "skibidi-toilet-vs-cameraman-sniper-game",
+    "thumbnail": "https://html5arcadex.github.io/images/883.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "noob-archer-vs-stickman-zombie-zombie-shooter",
+    "thumbnail": "https://html5arcadex.github.io/images/884.webp",
+    "genre": "Puzzle, Shooter"
+  },
+  {
+    "id": "minecraft-battle-party",
+    "thumbnail": "https://html5arcadex.github.io/images/885.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "formula-traffic-racer",
+    "thumbnail": "https://html5arcadex.github.io/images/886.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "brainrot-click-to-hatch",
+    "thumbnail": "https://html5arcadex.github.io/images/887.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "magic-and-wizards-match",
+    "thumbnail": "https://html5arcadex.github.io/images/888.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "mr-long-legs",
+    "thumbnail": "https://html5arcadex.github.io/images/889.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "vegamix-match-3-village",
+    "thumbnail": "https://html5arcadex.github.io/images/890.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "mission-santa-deliver-the-gifts",
+    "thumbnail": "https://html5arcadex.github.io/images/891.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "block-parkour-trials",
+    "thumbnail": "https://html5arcadex.github.io/images/892.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "muscle-challenge",
+    "thumbnail": "https://html5arcadex.github.io/images/893.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "skillful-finger",
+    "thumbnail": "https://html5arcadex.github.io/images/894.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "knock-and-run-100-doors-escape",
+    "thumbnail": "https://html5arcadex.github.io/images/895.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cube-connect",
+    "thumbnail": "https://html5arcadex.github.io/images/896.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bubble-fever-blast",
+    "thumbnail": "https://html5arcadex.github.io/images/897.webp",
+    "genre": "Puzzle, Bubble Shooter"
+  },
+  {
+    "id": "demolition-car-rope-and-hook",
+    "thumbnail": "https://html5arcadex.github.io/images/898.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "merge-home-mania",
+    "thumbnail": "https://html5arcadex.github.io/images/899.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "mafia-sniper-crime-shooting",
+    "thumbnail": "https://html5arcadex.github.io/images/900.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "unstack-tower",
+    "thumbnail": "https://html5arcadex.github.io/images/901.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "lost-things-hidden-objects",
+    "thumbnail": "https://html5arcadex.github.io/images/902.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "day-of-atrocity",
+    "thumbnail": "https://html5arcadex.github.io/images/903.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "backgammon-duel",
+    "thumbnail": "https://html5arcadex.github.io/images/904.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "stunt-multiplayer-arena",
+    "thumbnail": "https://html5arcadex.github.io/images/905.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "mindblow",
+    "thumbnail": "https://html5arcadex.github.io/images/906.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "egg-farm",
+    "thumbnail": "https://html5arcadex.github.io/images/907.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "dreamy-jewel",
+    "thumbnail": "https://html5arcadex.github.io/images/908.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "toytopia",
+    "thumbnail": "https://html5arcadex.github.io/images/909.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "draw-bridge-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/910.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fireboy-watergirl-7-and-friends",
+    "thumbnail": "https://html5arcadex.github.io/images/911.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "cute-kitty-merge",
+    "thumbnail": "https://html5arcadex.github.io/images/912.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "men-vs-gorillas",
+    "thumbnail": "https://html5arcadex.github.io/images/913.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "jigsort-puzzles",
+    "thumbnail": "https://html5arcadex.github.io/images/914.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "athena-match-2",
+    "thumbnail": "https://html5arcadex.github.io/images/915.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "uncle-bullet-007",
+    "thumbnail": "https://html5arcadex.github.io/images/916.webp",
+    "genre": "Puzzle, Shooter"
+  },
+  {
+    "id": "stickman-punishment",
+    "thumbnail": "https://html5arcadex.github.io/images/917.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "guns-vs-magic",
+    "thumbnail": "https://html5arcadex.github.io/images/918.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "picture-puzzles",
+    "thumbnail": "https://html5arcadex.github.io/images/919.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "kour-io",
+    "thumbnail": "https://html5arcadex.github.io/images/920.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "beat-music-battle",
+    "thumbnail": "https://html5arcadex.github.io/images/921.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hydraulic-press-2d-asmr",
+    "thumbnail": "https://html5arcadex.github.io/images/922.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "chiron-city-driver",
+    "thumbnail": "https://html5arcadex.github.io/images/923.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "fun-golf",
+    "thumbnail": "https://html5arcadex.github.io/images/924.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "brain-draw-line",
+    "thumbnail": "https://html5arcadex.github.io/images/925.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "ninjaroof",
+    "thumbnail": "https://html5arcadex.github.io/images/926.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "try-to-count-the-boxes-brain-training",
+    "thumbnail": "https://html5arcadex.github.io/images/927.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "draw-a-path-to-the-finish-line",
+    "thumbnail": "https://html5arcadex.github.io/images/928.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cut-grass",
+    "thumbnail": "https://html5arcadex.github.io/images/929.webp",
+    "genre": "Arcade"
+  },
+  {
+    "id": "word-guess-game",
+    "thumbnail": "https://html5arcadex.github.io/images/930.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "maze-craze",
+    "thumbnail": "https://html5arcadex.github.io/images/931.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "idle-town-billionaire",
+    "thumbnail": "https://html5arcadex.github.io/images/932.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "jet-fighter-airplane-racing",
+    "thumbnail": "https://html5arcadex.github.io/images/933.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "thats-my-seat",
+    "thumbnail": "https://html5arcadex.github.io/images/934.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bitgoblins-rpg-simulator",
+    "thumbnail": "https://html5arcadex.github.io/images/935.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "nightmare-couple-halloween-party",
+    "thumbnail": "https://html5arcadex.github.io/images/936.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "cool-supercars-stunts-pvp",
+    "thumbnail": "https://html5arcadex.github.io/images/937.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "void-orbit",
+    "thumbnail": "https://html5arcadex.github.io/images/938.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "coffee-match-rush-sort-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/939.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "candy-riddles",
+    "thumbnail": "https://html5arcadex.github.io/images/940.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hill-station-bus-simulator",
+    "thumbnail": "https://html5arcadex.github.io/images/941.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "nubik-courier-an-open-world",
+    "thumbnail": "https://html5arcadex.github.io/images/942.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "merge-construct",
+    "thumbnail": "https://html5arcadex.github.io/images/943.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "airport-security",
+    "thumbnail": "https://html5arcadex.github.io/images/944.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "turbo-car-track",
+    "thumbnail": "https://html5arcadex.github.io/images/945.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "my-farm-empire",
+    "thumbnail": "https://html5arcadex.github.io/images/946.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "twinkle-shooter",
+    "thumbnail": "https://html5arcadex.github.io/images/947.webp",
+    "genre": "Puzzle, Bubble Shooter"
+  },
+  {
+    "id": "grannys-classroom-nightmare",
+    "thumbnail": "https://html5arcadex.github.io/images/948.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "screw-color-sorting-master",
+    "thumbnail": "https://html5arcadex.github.io/images/949.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "3d-ball-balancer",
+    "thumbnail": "https://html5arcadex.github.io/images/950.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "paint-rush",
+    "thumbnail": "https://html5arcadex.github.io/images/951.webp",
+    "genre": "Puzzle, Art"
+  },
+  {
+    "id": "autumn-glam-gala",
+    "thumbnail": "https://html5arcadex.github.io/images/952.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "mow-it",
+    "thumbnail": "https://html5arcadex.github.io/images/953.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "minetap-merge-clicker",
+    "thumbnail": "https://html5arcadex.github.io/images/954.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "unblock-it-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/955.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "floof-my-pet-house",
+    "thumbnail": "https://html5arcadex.github.io/images/956.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "yarn-fever-unravel-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/957.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "circuit-racing",
+    "thumbnail": "https://html5arcadex.github.io/images/958.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hidden-objects-island-secrets",
+    "thumbnail": "https://html5arcadex.github.io/images/959.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "flow-block",
+    "thumbnail": "https://html5arcadex.github.io/images/960.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "wild-hunting-clash",
+    "thumbnail": "https://html5arcadex.github.io/images/961.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "code-maze",
+    "thumbnail": "https://html5arcadex.github.io/images/962.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "panda-mahjong-classic",
+    "thumbnail": "https://html5arcadex.github.io/images/963.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "tap-hold",
+    "thumbnail": "https://html5arcadex.github.io/images/964.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "plants-warfare",
+    "thumbnail": "https://html5arcadex.github.io/images/965.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "dirty-them-all",
+    "thumbnail": "https://html5arcadex.github.io/images/966.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "truck-simulator-european-roads",
+    "thumbnail": "https://html5arcadex.github.io/images/967.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-numbers",
+    "thumbnail": "https://html5arcadex.github.io/images/968.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "stickman-team-detroit",
+    "thumbnail": "https://html5arcadex.github.io/images/969.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "christmas-blind-box",
+    "thumbnail": "https://html5arcadex.github.io/images/970.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "submarine-attack",
+    "thumbnail": "https://html5arcadex.github.io/images/971.webp",
+    "genre": "Shooter, Strategy"
+  },
+  {
+    "id": "empire-city",
+    "thumbnail": "https://html5arcadex.github.io/images/972.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "age-of-zombies",
+    "thumbnail": "https://html5arcadex.github.io/images/973.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "obby-1-jump-per-click",
+    "thumbnail": "https://html5arcadex.github.io/images/974.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "magic-bottles",
+    "thumbnail": "https://html5arcadex.github.io/images/975.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "spacebar-clicker",
+    "thumbnail": "https://html5arcadex.github.io/images/976.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "matching-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/977.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "letters-match",
+    "thumbnail": "https://html5arcadex.github.io/images/978.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "classic-mahjong",
+    "thumbnail": "https://html5arcadex.github.io/images/979.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "knit-rescue",
+    "thumbnail": "https://html5arcadex.github.io/images/980.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "merge-heroes",
+    "thumbnail": "https://html5arcadex.github.io/images/981.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "hex-planet-idle",
+    "thumbnail": "https://html5arcadex.github.io/images/982.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "conduct-this",
+    "thumbnail": "https://html5arcadex.github.io/images/983.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "gladiator-fights",
+    "thumbnail": "https://html5arcadex.github.io/images/984.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "match-tile-royal-family",
+    "thumbnail": "https://html5arcadex.github.io/images/985.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "city-builder",
+    "thumbnail": "https://html5arcadex.github.io/images/986.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "car-out-jam",
+    "thumbnail": "https://html5arcadex.github.io/images/987.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "liquid-swarm",
+    "thumbnail": "https://html5arcadex.github.io/images/988.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sniper-shot-bullet-time",
+    "thumbnail": "https://html5arcadex.github.io/images/989.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "riddlemath",
+    "thumbnail": "https://html5arcadex.github.io/images/990.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "jailbreak-escape-from-prison",
+    "thumbnail": "https://html5arcadex.github.io/images/991.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "nuts-stack-sort-nuts-bolts",
+    "thumbnail": "https://html5arcadex.github.io/images/992.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hexa-sort-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/993.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "celebrity-thanksgiving-prep",
+    "thumbnail": "https://html5arcadex.github.io/images/994.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "mermaid-princess-avater-castle",
+    "thumbnail": "https://html5arcadex.github.io/images/995.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "hyper-cars-ramp-crash",
+    "thumbnail": "https://html5arcadex.github.io/images/996.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "koko-loco-block-blast",
+    "thumbnail": "https://html5arcadex.github.io/images/997.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mad-truck",
+    "thumbnail": "https://html5arcadex.github.io/images/998.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "obby-parkour-racing",
+    "thumbnail": "https://html5arcadex.github.io/images/999.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "war-the-knights",
+    "thumbnail": "https://html5arcadex.github.io/images/1000.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bricks-breaker",
+    "thumbnail": "https://html5arcadex.github.io/images/1001.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "rainbow-friends-survival",
+    "thumbnail": "https://html5arcadex.github.io/images/1002.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "word-stars",
+    "thumbnail": "https://html5arcadex.github.io/images/1003.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "batzo-runner",
+    "thumbnail": "https://html5arcadex.github.io/images/1004.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "idle-lunch",
+    "thumbnail": "https://html5arcadex.github.io/images/1005.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "destruction-simulator",
+    "thumbnail": "https://html5arcadex.github.io/images/1006.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "block-craft-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/1007.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "hazmob-fps-online-shooter",
+    "thumbnail": "https://html5arcadex.github.io/images/1008.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "association-connect-word",
+    "thumbnail": "https://html5arcadex.github.io/images/1009.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "winter-cosmofest",
+    "thumbnail": "https://html5arcadex.github.io/images/1010.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "wool-sorting",
+    "thumbnail": "https://html5arcadex.github.io/images/1011.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "save-her-tour",
+    "thumbnail": "https://html5arcadex.github.io/images/1012.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "goodeluxe",
+    "thumbnail": "https://html5arcadex.github.io/images/1013.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "tictoc-urban-outfits",
+    "thumbnail": "https://html5arcadex.github.io/images/1014.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "slidee",
+    "thumbnail": "https://html5arcadex.github.io/images/1015.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pickle-ball-clash",
+    "thumbnail": "https://html5arcadex.github.io/images/1016.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "max-crusher-2-destruction-drift-and-racing",
+    "thumbnail": "https://html5arcadex.github.io/images/1017.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "ng-flow-lines",
+    "thumbnail": "https://html5arcadex.github.io/images/1018.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "card-solitaire-word-game",
+    "thumbnail": "https://html5arcadex.github.io/images/1019.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "easter-glamping-trip",
+    "thumbnail": "https://html5arcadex.github.io/images/1020.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "number-place-travel",
+    "thumbnail": "https://html5arcadex.github.io/images/1021.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "blastify-ii",
+    "thumbnail": "https://html5arcadex.github.io/images/1022.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bears-vs-art",
+    "thumbnail": "https://html5arcadex.github.io/images/1023.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "i-am-prankster-taxi-driver",
+    "thumbnail": "https://html5arcadex.github.io/images/1024.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "space-cleaner",
+    "thumbnail": "https://html5arcadex.github.io/images/1025.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "turbo-race-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/1026.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "toy-assembly-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/1027.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "dog-escape",
+    "thumbnail": "https://html5arcadex.github.io/images/1028.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "my-tiny-market",
+    "thumbnail": "https://html5arcadex.github.io/images/1029.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "clash-crowd-game",
+    "thumbnail": "https://html5arcadex.github.io/images/1030.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hide-and-seek-horror-escape",
+    "thumbnail": "https://html5arcadex.github.io/images/1031.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "capybara-mukbang-asmr",
+    "thumbnail": "https://html5arcadex.github.io/images/1032.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sweet-dessert-hole",
+    "thumbnail": "https://html5arcadex.github.io/images/1033.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "idle-restaurant-tycoon",
+    "thumbnail": "https://html5arcadex.github.io/images/1034.webp",
+    "genre": "Cooking, Strategy"
+  },
+  {
+    "id": "car-out-jam-parking-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/1035.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "2-cars-run",
+    "thumbnail": "https://html5arcadex.github.io/images/1036.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "obby-climb-racing",
+    "thumbnail": "https://html5arcadex.github.io/images/1037.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "color-nonogram-puzzle-2",
+    "thumbnail": "https://html5arcadex.github.io/images/1038.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pixel-number-diy-coloring",
+    "thumbnail": "https://html5arcadex.github.io/images/1039.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "black-hole-beauty-makeup",
+    "thumbnail": "https://html5arcadex.github.io/images/1040.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "taylor-dress-studio-preppy-wild-west-glam",
+    "thumbnail": "https://html5arcadex.github.io/images/1041.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "escape-the-horror-craft",
+    "thumbnail": "https://html5arcadex.github.io/images/1042.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "mojicon-emoji-connect",
+    "thumbnail": "https://html5arcadex.github.io/images/1043.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "warfare-1942-online-shooter",
+    "thumbnail": "https://html5arcadex.github.io/images/1044.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "witch-fairy-bff",
+    "thumbnail": "https://html5arcadex.github.io/images/1045.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "solitaire-summer-klondike",
+    "thumbnail": "https://html5arcadex.github.io/images/1046.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "merge-cubes-2048-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/1047.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "alphabet-lore-maze",
+    "thumbnail": "https://html5arcadex.github.io/images/1048.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "city-tower-builder",
+    "thumbnail": "https://html5arcadex.github.io/images/1049.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mahjong-connect-tiles",
+    "thumbnail": "https://html5arcadex.github.io/images/1050.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "zip-zap",
+    "thumbnail": "https://html5arcadex.github.io/images/1051.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hotgear",
+    "thumbnail": "https://html5arcadex.github.io/images/1052.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "stickman-zombie-vs-stickman-hero",
+    "thumbnail": "https://html5arcadex.github.io/images/1053.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "assassin-commando-car-driving",
+    "thumbnail": "https://html5arcadex.github.io/images/1054.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "snake-go-escape-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/1055.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "the-last-tiger-tank-simulator",
+    "thumbnail": "https://html5arcadex.github.io/images/1056.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "noob-jailbreak-2",
+    "thumbnail": "https://html5arcadex.github.io/images/1057.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "dino-egg-shooter",
+    "thumbnail": "https://html5arcadex.github.io/images/1058.webp",
+    "genre": "Puzzle, Bubble Shooter"
+  },
+  {
+    "id": "dino-shooter-pro",
+    "thumbnail": "https://html5arcadex.github.io/images/1059.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "connect-image",
+    "thumbnail": "https://html5arcadex.github.io/images/1060.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "uno-online",
+    "thumbnail": "https://html5arcadex.github.io/images/1061.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "small-wardrobe",
+    "thumbnail": "https://html5arcadex.github.io/images/1062.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "pottery-master",
+    "thumbnail": "https://html5arcadex.github.io/images/1063.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "survival-island-evo",
+    "thumbnail": "https://html5arcadex.github.io/images/1064.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "hidden-objects",
+    "thumbnail": "https://html5arcadex.github.io/images/1065.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "block-stacking",
+    "thumbnail": "https://html5arcadex.github.io/images/1066.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "archers-random",
+    "thumbnail": "https://html5arcadex.github.io/images/1067.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "merge-balls-new-years-toys-in-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/1068.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "gladiators-merge-and-fight",
+    "thumbnail": "https://html5arcadex.github.io/images/1069.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "spider-solitaire",
+    "thumbnail": "https://html5arcadex.github.io/images/1070.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "happy-monsters",
+    "thumbnail": "https://html5arcadex.github.io/images/1071.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "associations---word-connect",
+    "thumbnail": "https://html5arcadex.github.io/images/1072.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "poxel-io",
+    "thumbnail": "https://html5arcadex.github.io/images/1073.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cinema-business-idle-games",
+    "thumbnail": "https://html5arcadex.github.io/images/1074.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "tappy-bird-avoid-the-spikes",
+    "thumbnail": "https://html5arcadex.github.io/images/1075.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "asylum-baldi-granny-slender",
+    "thumbnail": "https://html5arcadex.github.io/images/1076.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "school-teacher-simulator",
+    "thumbnail": "https://html5arcadex.github.io/images/1077.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "anomaly-content-record",
+    "thumbnail": "https://html5arcadex.github.io/images/1078.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "goon-ball",
+    "thumbnail": "https://html5arcadex.github.io/images/1079.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "stickman-halloween-survive",
+    "thumbnail": "https://html5arcadex.github.io/images/1080.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "the-impossible-quiz",
+    "thumbnail": "https://html5arcadex.github.io/images/1081.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stick-war-saga",
+    "thumbnail": "https://html5arcadex.github.io/images/1082.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "sliding-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/1083.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "just-mahjong",
+    "thumbnail": "https://html5arcadex.github.io/images/1084.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "stabfish2-io-multiplayer",
+    "thumbnail": "https://html5arcadex.github.io/images/1085.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "break-beat",
+    "thumbnail": "https://html5arcadex.github.io/images/1086.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "stack-tower-pro",
+    "thumbnail": "https://html5arcadex.github.io/images/1087.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "strange-packages",
+    "thumbnail": "https://html5arcadex.github.io/images/1088.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mega-ramp-bike-racing-tracks",
+    "thumbnail": "https://html5arcadex.github.io/images/1089.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "crowd-battle-gun-rush",
+    "thumbnail": "https://html5arcadex.github.io/images/1090.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "kingdom-rush",
+    "thumbnail": "https://html5arcadex.github.io/images/1091.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "horror-escape-granny-room",
+    "thumbnail": "https://html5arcadex.github.io/images/1092.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "kitchen-star",
+    "thumbnail": "https://html5arcadex.github.io/images/1093.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "real-flight-simulator",
+    "thumbnail": "https://html5arcadex.github.io/images/1094.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "nekos-adventure",
+    "thumbnail": "https://html5arcadex.github.io/images/1095.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "water-dig-rescue",
+    "thumbnail": "https://html5arcadex.github.io/images/1096.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "maze-escape-craft-man",
+    "thumbnail": "https://html5arcadex.github.io/images/1097.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "simon-super-rabbit",
+    "thumbnail": "https://html5arcadex.github.io/images/1098.webp",
+    "genre": "Adventure, Educational"
+  },
+  {
+    "id": "reach-2048",
+    "thumbnail": "https://html5arcadex.github.io/images/1099.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mahjong-cute-tiles",
+    "thumbnail": "https://html5arcadex.github.io/images/1100.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "help-me-tricky-brain-puzzles",
+    "thumbnail": "https://html5arcadex.github.io/images/1101.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "magic-and-wizards-mahjong",
+    "thumbnail": "https://html5arcadex.github.io/images/1102.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "sprunki-coloring-book",
+    "thumbnail": "https://html5arcadex.github.io/images/1103.webp",
+    "genre": "Art, Educational"
+  },
+  {
+    "id": "drawing-squares",
+    "thumbnail": "https://html5arcadex.github.io/images/1104.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "archery-ragdoll",
+    "thumbnail": "https://html5arcadex.github.io/images/1105.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "tropical-cubes-2048",
+    "thumbnail": "https://html5arcadex.github.io/images/1106.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dig-out-of-prison",
+    "thumbnail": "https://html5arcadex.github.io/images/1107.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "draw-one-part-brain-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/1108.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sand-block-blast",
+    "thumbnail": "https://html5arcadex.github.io/images/1109.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tricky-shots",
+    "thumbnail": "https://html5arcadex.github.io/images/1110.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "funny-fruits-merge-and-gather-watermelon",
+    "thumbnail": "https://html5arcadex.github.io/images/1111.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "super-ninja-balloon",
+    "thumbnail": "https://html5arcadex.github.io/images/1112.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "real-freekick-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/1113.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "travel-story-match",
+    "thumbnail": "https://html5arcadex.github.io/images/1114.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "bbq-sort-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/1115.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ship-out",
+    "thumbnail": "https://html5arcadex.github.io/images/1116.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "mine-quest-daily",
+    "thumbnail": "https://html5arcadex.github.io/images/1117.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "monster-school-2",
+    "thumbnail": "https://html5arcadex.github.io/images/1118.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "jailbreak-assault",
+    "thumbnail": "https://html5arcadex.github.io/images/1119.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "block-puzzle-travel",
+    "thumbnail": "https://html5arcadex.github.io/images/1120.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "parking-fury-3d-beach-city-2",
+    "thumbnail": "https://html5arcadex.github.io/images/1121.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "star-attack-3d",
+    "thumbnail": "https://html5arcadex.github.io/images/1122.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "emoji-frenzy",
+    "thumbnail": "https://html5arcadex.github.io/images/1123.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "matrix-typer",
+    "thumbnail": "https://html5arcadex.github.io/images/1124.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "obby-highest-jump-ever",
+    "thumbnail": "https://html5arcadex.github.io/images/1125.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "fruit-catcher",
+    "thumbnail": "https://html5arcadex.github.io/images/1126.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "k-pop-puzzle-hunters",
+    "thumbnail": "https://html5arcadex.github.io/images/1127.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "space-waves",
+    "thumbnail": "https://html5arcadex.github.io/images/1128.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "indygirl-and-the-golden-skull",
+    "thumbnail": "https://html5arcadex.github.io/images/1129.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "planet-merge",
+    "thumbnail": "https://html5arcadex.github.io/images/1130.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "brain-challenge",
+    "thumbnail": "https://html5arcadex.github.io/images/1131.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "cat-challenge",
+    "thumbnail": "https://html5arcadex.github.io/images/1132.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "closed-city",
+    "thumbnail": "https://html5arcadex.github.io/images/1133.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "bottle-challenge",
+    "thumbnail": "https://html5arcadex.github.io/images/1134.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "teacher-simulator-christmas-exam",
+    "thumbnail": "https://html5arcadex.github.io/images/1135.webp",
+    "genre": "Quiz, Simulation"
+  },
+  {
+    "id": "ball-bunker-sneaky-stacks",
+    "thumbnail": "https://html5arcadex.github.io/images/1136.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "math-master",
+    "thumbnail": "https://html5arcadex.github.io/images/1137.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "stickman-archero-fight-stick-shadow-fight-war",
+    "thumbnail": "https://html5arcadex.github.io/images/1138.webp",
+    "genre": "Agility, Battle"
+  },
+  {
+    "id": "ragdoll-jump",
+    "thumbnail": "https://html5arcadex.github.io/images/1139.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ugc-math-race",
+    "thumbnail": "https://html5arcadex.github.io/images/1140.webp",
+    "genre": ".IO, Educational"
+  },
+  {
+    "id": "roblox-halloween-costume-party",
+    "thumbnail": "https://html5arcadex.github.io/images/1141.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "the-survey",
+    "thumbnail": "https://html5arcadex.github.io/images/1142.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "screw-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/1143.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "jumpers-quest",
+    "thumbnail": "https://html5arcadex.github.io/images/1144.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "gridpunk---3v3-battle-royale",
+    "thumbnail": "https://html5arcadex.github.io/images/1145.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hexa-tap-away",
+    "thumbnail": "https://html5arcadex.github.io/images/1146.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "color-block-sort",
+    "thumbnail": "https://html5arcadex.github.io/images/1147.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "royal-puzzle-burst",
+    "thumbnail": "https://html5arcadex.github.io/images/1148.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bullet-heroes",
+    "thumbnail": "https://html5arcadex.github.io/images/1149.webp",
+    "genre": "Shooter, .IO"
+  },
+  {
+    "id": "papas-cheeseria",
+    "thumbnail": "https://html5arcadex.github.io/images/1150.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "practice-on-me",
+    "thumbnail": "https://html5arcadex.github.io/images/1151.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "mojicon-garden-connect",
+    "thumbnail": "https://html5arcadex.github.io/images/1152.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "build-and-crush",
+    "thumbnail": "https://html5arcadex.github.io/images/1153.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cool-orange-ball-bounce-adventure",
+    "thumbnail": "https://html5arcadex.github.io/images/1154.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "arrow-tap-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/1155.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cubica",
+    "thumbnail": "https://html5arcadex.github.io/images/1156.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "slime-farm",
+    "thumbnail": "https://html5arcadex.github.io/images/1157.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "colors-runners",
+    "thumbnail": "https://html5arcadex.github.io/images/1158.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "good-yard",
+    "thumbnail": "https://html5arcadex.github.io/images/1159.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cosmic-aviator",
+    "thumbnail": "https://html5arcadex.github.io/images/1160.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "money-maker",
+    "thumbnail": "https://html5arcadex.github.io/images/1161.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "solitaire-lamour",
+    "thumbnail": "https://html5arcadex.github.io/images/1162.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "arrow-exit-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/1163.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hero-wizard-save-your-girlfriend",
+    "thumbnail": "https://html5arcadex.github.io/images/1164.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "fighter-aircraft-pilot",
+    "thumbnail": "https://html5arcadex.github.io/images/1165.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "flyordieio",
+    "thumbnail": "https://html5arcadex.github.io/images/1166.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "superwings-subway",
+    "thumbnail": "https://html5arcadex.github.io/images/1167.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "scroll-and-spot",
+    "thumbnail": "https://html5arcadex.github.io/images/1168.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "teardown-destruction-sandbox",
+    "thumbnail": "https://html5arcadex.github.io/images/1169.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "grow-warsio",
+    "thumbnail": "https://html5arcadex.github.io/images/1170.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "shape-transform-race",
+    "thumbnail": "https://html5arcadex.github.io/images/1171.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "obby-tower",
+    "thumbnail": "https://html5arcadex.github.io/images/1172.webp",
+    "genre": ".IO, Educational"
+  },
+  {
+    "id": "vice-city-driver",
+    "thumbnail": "https://html5arcadex.github.io/images/1173.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "float-for-brainrots",
+    "thumbnail": "https://html5arcadex.github.io/images/1174.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "cat-sorter-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/1175.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "zooma-dragon",
+    "thumbnail": "https://html5arcadex.github.io/images/1176.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "prison-master-escape-journey",
+    "thumbnail": "https://html5arcadex.github.io/images/1177.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "bubble-shooter-spinner-pop",
+    "thumbnail": "https://html5arcadex.github.io/images/1178.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "castle-craft",
+    "thumbnail": "https://html5arcadex.github.io/images/1179.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "k-pop-hunter-fashion",
+    "thumbnail": "https://html5arcadex.github.io/images/1180.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "theo-morinis-magical-resort",
+    "thumbnail": "https://html5arcadex.github.io/images/1181.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "celebrity-face-dance",
+    "thumbnail": "https://html5arcadex.github.io/images/1182.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "cubidle",
+    "thumbnail": "https://html5arcadex.github.io/images/1183.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "imposter-coloring-book",
+    "thumbnail": "https://html5arcadex.github.io/images/1184.webp",
+    "genre": "Art, Educational"
+  },
+  {
+    "id": "goo-goo-gaga-clicker",
+    "thumbnail": "https://html5arcadex.github.io/images/1185.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "bouncy-blob-race-obstacle-course",
+    "thumbnail": "https://html5arcadex.github.io/images/1186.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "bridge-race",
+    "thumbnail": "https://html5arcadex.github.io/images/1187.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "maze-cube-2048",
+    "thumbnail": "https://html5arcadex.github.io/images/1188.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "bed-wars",
+    "thumbnail": "https://html5arcadex.github.io/images/1189.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "memory-lane",
+    "thumbnail": "https://html5arcadex.github.io/images/1190.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pinball-vs-zombie",
+    "thumbnail": "https://html5arcadex.github.io/images/1191.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "sprunki-popit",
+    "thumbnail": "https://html5arcadex.github.io/images/1192.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ball-rolling-slope",
+    "thumbnail": "https://html5arcadex.github.io/images/1193.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "dynamons-8",
+    "thumbnail": "https://html5arcadex.github.io/images/1194.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "pixel-destroyer",
+    "thumbnail": "https://html5arcadex.github.io/images/1195.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sprunki-jigsaw-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/1196.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bff-happy-spring",
+    "thumbnail": "https://html5arcadex.github.io/images/1197.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "find-hidden-cats",
+    "thumbnail": "https://html5arcadex.github.io/images/1198.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "highschool-mean-girls-3",
+    "thumbnail": "https://html5arcadex.github.io/images/1199.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "mahjongg-solitaire",
+    "thumbnail": "https://html5arcadex.github.io/images/1200.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "conquerio",
+    "thumbnail": "https://html5arcadex.github.io/images/1201.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "extreme-real-car-driving-2025",
+    "thumbnail": "https://html5arcadex.github.io/images/1202.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "pocket-car-master",
+    "thumbnail": "https://html5arcadex.github.io/images/1203.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "crowd-evolution",
+    "thumbnail": "https://html5arcadex.github.io/images/1204.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "lucky-brainrot-blocks-online",
+    "thumbnail": "https://html5arcadex.github.io/images/1205.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "brainstorming-2d",
+    "thumbnail": "https://html5arcadex.github.io/images/1206.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bottle-logic",
+    "thumbnail": "https://html5arcadex.github.io/images/1207.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "shell-strikers",
+    "thumbnail": "https://html5arcadex.github.io/images/1208.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "monster-school-3",
+    "thumbnail": "https://html5arcadex.github.io/images/1209.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "angry-chibi-run",
+    "thumbnail": "https://html5arcadex.github.io/images/1210.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "sprunki-find-the-differences",
+    "thumbnail": "https://html5arcadex.github.io/images/1211.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bubble-trouble-2-rebubbled",
+    "thumbnail": "https://html5arcadex.github.io/images/1212.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "madness-driver-vertigo-city",
+    "thumbnail": "https://html5arcadex.github.io/images/1213.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "mr-bean-jump",
+    "thumbnail": "https://html5arcadex.github.io/images/1214.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "clicker-hero",
+    "thumbnail": "https://html5arcadex.github.io/images/1215.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "tile-connect-club",
+    "thumbnail": "https://html5arcadex.github.io/images/1216.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sky-maze-challenge",
+    "thumbnail": "https://html5arcadex.github.io/images/1217.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "arrow-escape-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/1218.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "offroad-muddy-trucks",
+    "thumbnail": "https://html5arcadex.github.io/images/1219.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "hypper-sandbox",
+    "thumbnail": "https://html5arcadex.github.io/images/1220.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "broomcraft-mystic-evasion",
+    "thumbnail": "https://html5arcadex.github.io/images/1221.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "rock-crawling",
+    "thumbnail": "https://html5arcadex.github.io/images/1222.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "baling-bum",
+    "thumbnail": "https://html5arcadex.github.io/images/1223.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fishing-the-russian-way",
+    "thumbnail": "https://html5arcadex.github.io/images/1224.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "fluffy-mania",
+    "thumbnail": "https://html5arcadex.github.io/images/1225.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "rescue-hero",
+    "thumbnail": "https://html5arcadex.github.io/images/1226.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "jump-to-the-mountain-for-the-brainrots",
+    "thumbnail": "https://html5arcadex.github.io/images/1227.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "poppy-player-puzzle",
+    "thumbnail": "https://html5arcadex.github.io/images/1228.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ghostly-graveyard-halloween-special",
+    "thumbnail": "https://html5arcadex.github.io/images/1229.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "bubble-shooter-wild-west",
+    "thumbnail": "https://html5arcadex.github.io/images/1230.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "slingshot-chicken",
+    "thumbnail": "https://html5arcadex.github.io/images/1231.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "miracle-mahjong",
+    "thumbnail": "https://html5arcadex.github.io/images/1232.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "mister-mine",
+    "thumbnail": "https://html5arcadex.github.io/images/1233.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "brawl-stars-sound",
+    "thumbnail": "https://html5arcadex.github.io/images/1234.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "fruit-merge-reloaded",
+    "thumbnail": "https://html5arcadex.github.io/images/1235.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "celebrity-e-girl-vibes",
+    "thumbnail": "https://html5arcadex.github.io/images/1236.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "solitaire-mahjong-farm-2",
+    "thumbnail": "https://html5arcadex.github.io/images/1237.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "dinosaur-rampage",
+    "thumbnail": "https://html5arcadex.github.io/images/1238.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "fun-mini-games-for-kids",
+    "thumbnail": "https://html5arcadex.github.io/images/1239.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "crazy-tunnel",
+    "thumbnail": "https://html5arcadex.github.io/images/1240.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "treasure-champion-chest-capture",
+    "thumbnail": "https://html5arcadex.github.io/images/1241.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bus-collect",
+    "thumbnail": "https://html5arcadex.github.io/images/1242.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "flag-master-world-flags-quiz",
+    "thumbnail": "https://html5arcadex.github.io/images/1243.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "backrooms",
+    "thumbnail": "https://html5arcadex.github.io/images/1244.webp",
+    "genre": "Puzzle, Battle"
+  },
+  {
+    "id": "2048-mayhemio",
+    "thumbnail": "https://html5arcadex.github.io/images/1245.webp",
+    "genre": ".IO, Merge"
+  },
+  {
+    "id": "people-playground-ragdoll-battle",
+    "thumbnail": "https://html5arcadex.github.io/images/1246.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "ole-bunny",
+    "thumbnail": "https://html5arcadex.github.io/images/1247.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "witch-craft-potion-sort",
+    "thumbnail": "https://html5arcadex.github.io/images/1248.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "save-the-cats-bubble-shooter",
+    "thumbnail": "https://html5arcadex.github.io/images/1249.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "blockibo-color-blocks",
+    "thumbnail": "https://html5arcadex.github.io/images/1250.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "crazy-motorcycle",
+    "thumbnail": "https://html5arcadex.github.io/images/1251.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "chicken-math",
+    "thumbnail": "https://html5arcadex.github.io/images/1252.webp",
+    "genre": "Shooter, Educational"
+  },
+  {
+    "id": "my-cat-restaurant",
+    "thumbnail": "https://html5arcadex.github.io/images/1253.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "get-a-cool-gun",
+    "thumbnail": "https://html5arcadex.github.io/images/1254.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sandstorm-covert-ops",
+    "thumbnail": "https://html5arcadex.github.io/images/1255.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "hidden-objects-island",
+    "thumbnail": "https://html5arcadex.github.io/images/1256.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "rocket-fest",
+    "thumbnail": "https://html5arcadex.github.io/images/1257.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "hotel-manager",
+    "thumbnail": "https://html5arcadex.github.io/images/1258.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "super-stock-stack",
+    "thumbnail": "https://html5arcadex.github.io/images/1259.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "circle-shooter-master",
+    "thumbnail": "https://html5arcadex.github.io/images/1260.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "juicy-match",
+    "thumbnail": "https://html5arcadex.github.io/images/1261.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "1945-air-force-space-shooter",
+    "thumbnail": "https://html5arcadex.github.io/images/1262.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "draw-to-fish-fight",
+    "thumbnail": "https://html5arcadex.github.io/images/1263.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "animerge",
+    "thumbnail": "https://html5arcadex.github.io/images/1264.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "mermaids-spot-the-differences",
+    "thumbnail": "https://html5arcadex.github.io/images/1265.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "monster-slayers",
+    "thumbnail": "https://html5arcadex.github.io/images/1266.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "granny-3-return-the-school",
+    "thumbnail": "https://html5arcadex.github.io/images/1267.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "arrow-escape-master",
+    "thumbnail": "https://html5arcadex.github.io/images/1268.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tile-farm-story-matching-game",
+    "thumbnail": "https://html5arcadex.github.io/images/1269.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "jigsaw-fantasy",
+    "thumbnail": "https://html5arcadex.github.io/images/1270.webp",
+    "genre": "Jigsaw"
+  },
+  {
+    "id": "bubble-shooter-aura",
+    "thumbnail": "https://html5arcadex.github.io/images/1271.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "fishing-bear",
+    "thumbnail": "https://html5arcadex.github.io/images/1272.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fireside-solitaire",
+    "thumbnail": "https://html5arcadex.github.io/images/1273.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "lost-in-the-forest",
+    "thumbnail": "https://html5arcadex.github.io/images/1274.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "zombie-arena-2-fury-road",
+    "thumbnail": "https://html5arcadex.github.io/images/1275.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "tank-battleio",
+    "thumbnail": "https://html5arcadex.github.io/images/1276.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "turbo-trucks-race",
+    "thumbnail": "https://html5arcadex.github.io/images/1277.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "coin-empire",
+    "thumbnail": "https://html5arcadex.github.io/images/1278.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "furry-wedding-proposal",
+    "thumbnail": "https://html5arcadex.github.io/images/1279.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "daily-solitaire-mahjong-classic",
+    "thumbnail": "https://html5arcadex.github.io/images/1280.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "artillery-vs-tanks",
+    "thumbnail": "https://html5arcadex.github.io/images/1281.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "build-your-aquarium",
+    "thumbnail": "https://html5arcadex.github.io/images/1282.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "real-parkour-simulator",
+    "thumbnail": "https://html5arcadex.github.io/images/1283.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "dragon-escape",
+    "thumbnail": "https://html5arcadex.github.io/images/1284.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "obby-halloween-danger-skate",
+    "thumbnail": "https://html5arcadex.github.io/images/1285.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "crazy-zoo-monkey",
+    "thumbnail": "https://html5arcadex.github.io/images/1286.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "two-dots-remastered",
+    "thumbnail": "https://html5arcadex.github.io/images/1287.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "on-fire-basketball-shots",
+    "thumbnail": "https://html5arcadex.github.io/images/1288.webp",
+    "genre": "Puzzle, Basketball"
+  },
+  {
+    "id": "gun-war-z1",
+    "thumbnail": "https://html5arcadex.github.io/images/1289.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "tower-stack-2026",
+    "thumbnail": "https://html5arcadex.github.io/images/1290.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "coin-stack-up",
+    "thumbnail": "https://html5arcadex.github.io/images/1291.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pet-doctor-business-tycoon-pet-care-game",
+    "thumbnail": "https://html5arcadex.github.io/images/1292.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "brick-game-classic",
+    "thumbnail": "https://html5arcadex.github.io/images/1293.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "chicken-wars-merge-guns",
+    "thumbnail": "https://html5arcadex.github.io/images/1294.webp",
+    "genre": "Battle, Merge"
+  },
+  {
+    "id": "bonnie-fitness-frenzy",
+    "thumbnail": "https://html5arcadex.github.io/images/1295.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "glacier-rush",
+    "thumbnail": "https://html5arcadex.github.io/images/1296.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "countryside-driving-quest",
+    "thumbnail": "https://html5arcadex.github.io/images/1297.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "italian-animals-create-your-own-brainrot",
+    "thumbnail": "https://html5arcadex.github.io/images/1298.webp",
+    "genre": "Casual"
+  }
+]
